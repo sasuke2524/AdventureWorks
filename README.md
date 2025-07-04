@@ -81,9 +81,10 @@ The dashboard uses data from the **AdventureWorks** dataset, including:
 
 ## 📸 Screenshots
 
-> - `/screenshots/revenue-trend.png`
-> - `/screenshots/product-sales.png`
-> - `/screenshots/geographic-distribution.png`
+> - `[/screenshots/revenue-trend.png](https://github.com/sasuke2524/AdventureWorks/blob/main/Executive%20Dashboard.png)`
+> - `[/screenshots/product-sales.png](https://github.com/sasuke2524/AdventureWorks/blob/main/Geographical%20Sales%20Distribution.png)`
+> - `[/screenshots/geographic-distribution.png](https://github.com/sasuke2524/AdventureWorks/blob/main/Product%20Detail.png)`
+> - `[/screenshots/geographic-distribution.png](https://github.com/sasuke2524/AdventureWorks/blob/main/Customer%20Detail.png)`
 
 ---
 
